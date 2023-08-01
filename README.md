@@ -1,16 +1,15 @@
-### Hi there 👋
+### Boas vindas ao meu perfil  🐴
 
-<!--
-**pedro-roma/pedro-roma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Pedro Henrique Romao Rosa
 
-Here are some ideas to get you started:
+-Estou estudando na alura
+-Estou me desenvolvendo na linguagem javaScript
+-utilizo esse espaço para ,inha organizaçao e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Voce entra em contato comigo 🐴
+
+pedro.romao.rosa@escola.pr.gov.br
+
+@pedro henrique
+
+![](https://media.tenor.com/yaJSw3-OF44AAAAd/corinthians-sao-paulo.gifO)
